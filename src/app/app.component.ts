@@ -21,7 +21,6 @@ export class AppComponent {
     rowData = [
         {make: "Toyota", model: "Celica", date: '11.05.2019'},
         {make: "Ford", model: "Mondeo", date: '20.04.2018'},
-        {make: "Porsche", model: "Boxter", date: '03.01.2017'}
     ]
 
     components = {Flatpickr: getFlatpickr()};
