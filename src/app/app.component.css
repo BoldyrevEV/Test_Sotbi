@@ -1,0 +1,19 @@
+.ag-center-cols-container [col-id="date"] {
+    padding: 0;
+}
+
+.ant-input {
+    width: 198px;
+    height: 24px;
+    border: 0;
+    border-radius: 0;
+    color: #000;
+    font-family: "Segoe UI", sans-serif;
+    font-weight: 400;
+    font-size: 12px;   
+}
+
+.ag-row:hover .ant-input {
+    background-color: #ECF0F1; 
+    transition: background-color 0.1s;
+}
